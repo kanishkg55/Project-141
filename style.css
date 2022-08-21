@@ -1,0 +1,13 @@
+body
+{
+    background-size: cover;
+}
+
+#footer{
+    background-color: gray;
+}
+canvas{
+    border-radius: 37;
+    border-color: bisque;
+    border-width: 7px;
+}
